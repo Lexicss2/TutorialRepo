@@ -1,2 +1,2 @@
-This is implementation of feature 2
+This is implementation of feature 2 - Fix bug 2
 
