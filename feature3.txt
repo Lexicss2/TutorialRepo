@@ -1,1 +1,1 @@
-iThis is implementation of feature 3 - Fix Bug 3
+iThis is implementation of feature 3 - Fix Bug 3 - Feature 6
